@@ -1,0 +1,4 @@
+executar:
+thrift --gen java Tweet.thrift
+
+per crear les classes autogenerades per l'IDL Tweet.thrift
